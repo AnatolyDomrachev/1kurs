@@ -1,0 +1,19 @@
+Begin 40 2
+Integer 30 2
+Boolean 40 2
+If 30 2
+Case 20 2 ?
+For 40 2
+While 30 2
+Series 40 2
+Proc 60 2
+Minmax 30 2
+Array 140 2
+Matrix 100 2
+String 70 2 ?
+File 93
+Text 60
+Param 70
+Recur 32
+Dynamic 80
+Mix 90
