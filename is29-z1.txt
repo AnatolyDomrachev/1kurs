@@ -1,0 +1,138 @@
+
+Алексеева Валерия Антоновна
+Begin 23
+Begin 26
+Integer 26
+Integer 25
+
+Баскакова Полина Валерьевна
+Begin 37
+Begin 23
+Integer 5
+Integer 29
+
+Безденежных Дарья Валерьевна
+Begin 28
+Begin 6
+Integer 4
+Integer 8
+
+Быляв Илья Евгеньевич
+Begin 6
+Begin 34
+Integer 24
+Integer 22
+
+Васильева Елена Олеговна
+Begin 32
+Begin 15
+Integer 6
+Integer 7
+
+Голышкин Павел Александрович
+Begin 26
+Begin 10
+Integer 25
+Integer 21
+
+Гордеев Никита Сергеевич
+Begin 5
+Begin 22
+Integer 19
+Integer 18
+
+Залетов Николай Игоревич
+Begin 16
+Begin 5
+Integer 10
+Integer 29
+
+Камышев Данила Дмитриевич
+Begin 35
+Begin 7
+Integer 4
+Integer 17
+
+Крупин Владимир Николаевич
+Begin 34
+Begin 28
+Integer 10
+Integer 2
+
+Кузнецов Артём Андрианович
+Begin 13
+Begin 16
+Integer 12
+Integer 2
+
+Куликов Артем Александрович
+Begin 10
+Begin 1
+Integer 5
+Integer 3
+
+Куратев Никита Игоревич
+Begin 38
+Begin 23
+Integer 3
+Integer 7
+
+Лицов Роман Андреевич
+Begin 25
+Begin 29
+Integer 9
+Integer 20
+
+Малов Даниил Константинович
+Begin 27
+Begin 12
+Integer 26
+Integer 16
+
+Оборожный Данил Сергеевич
+Begin 2
+Begin 40
+Integer 18
+Integer 10
+
+Поляков Максим Александрович
+Begin 7
+Begin 31
+Integer 13
+Integer 1
+
+Проверка
+Begin 6
+Begin 15
+Integer 10
+Integer 15
+
+Самедов Николай Юсифович
+Begin 20
+Begin 11
+Integer 9
+Integer 27
+
+Смирнов Артем Олегович
+Begin 32
+Begin 19
+Integer 22
+Integer 24
+
+Уманский Андрей Александрович
+Begin 29
+Begin 22
+Integer 22
+Integer 10
+
+Хазова Александра Сергеевна
+Begin 6
+Begin 21
+Integer 30
+Integer 13
+
+Эпова Екатерина Александровна
+Begin 21
+Begin 33
+Integer 22
+Integer 25
