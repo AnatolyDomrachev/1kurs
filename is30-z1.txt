@@ -1,0 +1,66 @@
+
+Баршкетис Алина Александровна
+Begin 22
+Begin 8
+Integer 21
+Integer 26
+
+Бобина Дарья Алексеевна
+Begin 35
+Begin 33
+Integer 6
+Integer 18
+
+Боковая Полина Максимовна
+Begin 8
+Begin 27
+Integer 10
+Integer 4
+
+Булатова Наталья Владимировна
+Begin 39
+Begin 3
+Integer 11
+Integer 19
+
+Варламов Даниил Дмитриевич
+Begin 2
+Begin 17
+Integer 20
+Integer 22
+
+Красильников Никита Дмитриевич
+Begin 26
+Begin 9
+Integer 18
+Integer 30
+
+Лоскутов Андрей Викторович
+Begin 15
+Begin 29
+Integer 5
+Integer 11
+
+Михайлов Вячеслав Владимирович
+Begin 10
+Begin 40
+Integer 18
+Integer 4
+
+Смирнова Анна Николаевна
+Begin 16
+Begin 23
+Integer 4
+Integer 1
+
+Урядов Виктор Александрович
+Begin 35
+Begin 18
+Integer 5
+Integer 13
+
+Юданов Вячеслав Александрович
+Begin 29
+Begin 17
+Integer 6
+Integer 7
