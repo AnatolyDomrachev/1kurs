@@ -1,6 +1,6 @@
 import random
 
-f1 = open('is30.list')
+f1 = open('is29.list')
 strk = '1'
 while(strk):
 	print()

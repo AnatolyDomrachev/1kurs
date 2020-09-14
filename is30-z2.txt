@@ -1,0 +1,110 @@
+
+Баршкетис Алина Александровна
+If 7
+If 11
+For 36
+For 13
+While 15
+While 6
+Series 38
+Series 23
+
+Бобина Дарья Алексеевна
+If 8
+If 25
+For 33
+For 7
+While 23
+While 1
+Series 15
+Series 11
+
+Боковая Полина Максимовна
+If 4
+If 13
+For 38
+For 25
+While 29
+While 9
+Series 13
+Series 17
+
+Булатова Наталья Владимировна
+If 30
+If 16
+For 24
+For 11
+While 3
+While 24
+Series 29
+Series 20
+
+Варламов Даниил Дмитриевич
+If 11
+If 21
+For 15
+For 38
+While 25
+While 25
+Series 19
+Series 38
+
+Красильников Никита Дмитриевич
+If 16
+If 26
+For 36
+For 9
+While 25
+While 29
+Series 22
+Series 5
+
+Лоскутов Андрей Викторович
+If 23
+If 2
+For 33
+For 1
+While 19
+While 11
+Series 28
+Series 9
+
+Михайлов Вячеслав Владимирович
+If 20
+If 29
+For 30
+For 17
+While 10
+While 29
+Series 10
+Series 15
+
+Смирнова Анна Николаевна
+If 2
+If 12
+For 4
+For 21
+While 6
+While 12
+Series 5
+Series 26
+
+Урядов Виктор Александрович
+If 7
+If 7
+For 15
+For 12
+While 5
+While 17
+Series 6
+Series 9
+
+Юданов Вячеслав Александрович
+If 17
+If 9
+For 16
+For 35
+While 28
+While 23
+Series 22
+Series 21

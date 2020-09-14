@@ -1,2 +1,5 @@
-Begin 40 2
-Integer 30 2
+If 30 2
+For 40 2
+While 30 2
+Series 40 2
+

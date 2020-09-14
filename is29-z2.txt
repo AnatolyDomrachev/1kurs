@@ -1,0 +1,231 @@
+
+Алексеева Валерия Антоновна
+If 5
+If 2
+For 5
+For 31
+While 26
+While 19
+Series 23
+Series 32
+
+Баскакова Полина Валерьевна
+If 17
+If 10
+For 10
+For 25
+While 13
+While 24
+Series 40
+Series 1
+
+Безденежных Дарья Валерьевна
+If 28
+If 10
+For 23
+For 31
+While 18
+While 6
+Series 15
+Series 16
+
+Быляв Илья Евгеньевич
+If 10
+If 9
+For 13
+For 10
+While 18
+While 22
+Series 39
+Series 29
+
+Васильева Елена Олеговна
+If 21
+If 11
+For 35
+For 4
+While 18
+While 29
+Series 37
+Series 33
+
+Голышкин Павел Александрович
+If 1
+If 21
+For 20
+For 20
+While 18
+While 29
+Series 20
+Series 23
+
+Гордеев Никита Сергеевич
+If 30
+If 10
+For 33
+For 22
+While 29
+While 29
+Series 39
+Series 15
+
+Залетов Николай Игоревич
+If 12
+If 1
+For 16
+For 37
+While 30
+While 19
+Series 9
+Series 30
+
+Камышев Данила Дмитриевич
+If 23
+If 8
+For 14
+For 17
+While 29
+While 30
+Series 26
+Series 26
+
+Крупин Владимир Николаевич
+If 12
+If 9
+For 10
+For 6
+While 28
+While 11
+Series 3
+Series 13
+
+Кузнецов Артём Андрианович
+If 19
+If 15
+For 33
+For 8
+While 17
+While 19
+Series 38
+Series 33
+
+Куликов Артем Александрович
+If 18
+If 18
+For 7
+For 22
+While 4
+While 19
+Series 1
+Series 18
+
+Куратев Никита Игоревич
+If 6
+If 28
+For 2
+For 25
+While 28
+While 19
+Series 40
+Series 18
+
+Лицов Роман Андреевич
+If 14
+If 13
+For 2
+For 14
+While 2
+While 28
+Series 24
+Series 14
+
+Малов Даниил Константинович
+If 3
+If 24
+For 14
+For 22
+While 14
+While 5
+Series 9
+Series 38
+
+Оборожный Данил Сергеевич
+If 21
+If 11
+For 14
+For 34
+While 19
+While 2
+Series 21
+Series 9
+
+Поляков Максим Александрович
+If 6
+If 4
+For 18
+For 35
+While 16
+While 10
+Series 16
+Series 37
+
+Проверка
+If 14
+If 28
+For 25
+For 9
+While 2
+While 14
+Series 16
+Series 28
+
+Самедов Николай Юсифович
+If 26
+If 26
+For 26
+For 40
+While 17
+While 25
+Series 11
+Series 27
+
+Смирнов Артем Олегович
+If 14
+If 5
+For 4
+For 32
+While 22
+While 14
+Series 19
+Series 17
+
+Уманский Андрей Александрович
+If 5
+If 26
+For 11
+For 2
+While 25
+While 13
+Series 35
+Series 33
+
+Хазова Александра Сергеевна
+If 30
+If 16
+For 9
+For 16
+While 19
+While 5
+Series 24
+Series 10
+
+Эпова Екатерина Александровна
+If 4
+If 13
+For 29
+For 19
+While 23
+While 25
+Series 28
+Series 12
+
