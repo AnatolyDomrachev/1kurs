@@ -1,19 +1,15 @@
+import path_to_market
+import path_from_market
+import pokupka
+
 spisok = ['Молоко','Хлеб','Соль','Play Station']
-magazin  = ['Молоко','Хлеб','Соль','Курица','Колбаса']
-korzina = []
-net_v_magazine = []
 
-for stroka in spisok:
-    est_v_mag = 'No'
-    for tovar in magazin:
-        if stroka == tovar:
-            korzina.append(tovar)
-            est_v_mag = 'Yes'
+path = ['Прямо','Через дорогу','В гору']
 
-    if est_v_mag == 'No':
-        print(stroka," нет в магазине")
+path_to_market.path_to_market()
+pokupka.pokupka(spisok)
+path_from_market.path_from_market()
 
-print("Купили: ",korzina)
 
 '''
 spisok_net = []
