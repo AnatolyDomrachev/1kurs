@@ -4,16 +4,12 @@ import pokupka
 
 spisok = ['Молоко','Хлеб','Соль','Play Station']
 
-path = ['Прямо','Через дорогу','В гору']
+path = ['Прямо','Через дорогу','В гору','Налево']
 
-path_to_market.path_to_market()
+path_to_market.path_to_market(path)
+print()
 pokupka.pokupka(spisok)
-path_from_market.path_from_market()
+print()
+path_from_market.path_from_market(path)
 
 
-'''
-spisok_net = []
-for stroka in spisok:
-    for tovar in korzina:
-      if tovar != stroka
-'''
