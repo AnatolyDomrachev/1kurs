@@ -1,4 +1,6 @@
-swap = [['В гору','C горы'],['Налево','Направо']]
+#swap = [['В гору','C горы'],['Налево','Направо']]
+
+swap = {'В гору':'C горы','Налево':'Направо'}
 
 def reverse(path):
 
@@ -6,9 +8,9 @@ def reverse(path):
     back_path = path.copy()
 
     for i in range(len(back_path)):
-        for word in swap:
-            if(back_path[i] == word[0]):
-                back_path[i] = word[1]
+       # for word in swap:
+            if swap.get(back_path[i]):
+                back_path[i] = swap.get(back_path[i])
 
 
 
