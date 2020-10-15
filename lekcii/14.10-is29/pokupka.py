@@ -1,4 +1,9 @@
-magazin  = ['Молоко','Хлеб','Соль','Курица','Колбаса']
+import etc
+
+magazin =  []
+
+etc.read_file(magazin,'magazin.conf')
+
 korzina = []
 net_v_magazine = []
 
