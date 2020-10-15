@@ -7,7 +7,7 @@ spisok = []
 etc.read_file(spisok,'spisok.conf')
 
 path = []
-etc.read_file(path,'path.conf')
+#etc.read_file(path,'path.conf')
 
 path_to_market.path_to_market(path)
 print()
