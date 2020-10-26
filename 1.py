@@ -1,7 +1,7 @@
 import random
 
 
-with open("is30.list", encoding="utf-8") as f:
+with open("is29.list", encoding="utf-8") as f:
     names = f.read().strip().split("\n")
 
 with open("z4") as f:

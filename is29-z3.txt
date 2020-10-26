@@ -1,0 +1,132 @@
+Алексеева Валерия Антоновна
+Proc 29
+Proc 17
+Minmax 17
+Minmax 20
+
+Баскакова Полина Валерьевна
+Proc 24
+Proc 32
+Minmax 10
+Minmax 4
+
+Безденежных Дарья Валерьевна
+Proc 3
+Proc 22
+Minmax 30
+Minmax 10
+
+Быляв Илья Евгеньевич
+Proc 5
+Proc 8
+Minmax 10
+Minmax 17
+
+Васильева Елена Олеговна
+Proc 24
+Proc 6
+Minmax 10
+Minmax 23
+
+Голышкин Павел Александрович
+Proc 26
+Proc 15
+Minmax 2
+Minmax 10
+
+Гордеев Никита Сергеевич
+Proc 31
+Proc 6
+Minmax 19
+Minmax 18
+
+Залетов Николай Игоревич
+Proc 26
+Proc 10
+Minmax 5
+Minmax 12
+
+Камышев Данила Дмитриевич
+Proc 1
+Proc 29
+Minmax 13
+Minmax 1
+
+Крупин Владимир Николаевич
+Proc 18
+Proc 32
+Minmax 10
+Minmax 18
+
+Кузнецов Артём Андрианович
+Proc 13
+Proc 10
+Minmax 1
+Minmax 15
+
+Куликов Артем Александрович
+Proc 36
+Proc 19
+Minmax 29
+Minmax 26
+
+Куратев Никита Игоревич
+Proc 17
+Proc 30
+Minmax 17
+Minmax 22
+
+Лицов Роман Андреевич
+Proc 26
+Proc 5
+Minmax 5
+Minmax 21
+
+Малов Даниил Константинович
+Proc 28
+Proc 32
+Minmax 26
+Minmax 4
+
+Оборожный Данил Сергеевич
+Proc 18
+Proc 9
+Minmax 23
+Minmax 6
+
+Поляков Максим Александрович
+Proc 12
+Proc 31
+Minmax 5
+Minmax 3
+
+Самедов Николай Юсифович
+Proc 34
+Proc 13
+Minmax 5
+Minmax 15
+
+Смирнов Артем Олегович
+Proc 25
+Proc 27
+Minmax 27
+Minmax 14
+
+Уманский Андрей Александрович
+Proc 24
+Proc 20
+Minmax 28
+Minmax 27
+
+Хазова Александра Сергеевна
+Proc 32
+Proc 4
+Minmax 6
+Minmax 29
+
+Эпова Екатерина Александровна
+Proc 8
+Proc 16
+Minmax 24
+Minmax 8
+
