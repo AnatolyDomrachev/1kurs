@@ -1,0 +1,132 @@
+Алексеева Валерия Антоновна
+Array 68
+Array 11
+Matrix 81
+Matrix 29
+
+Баскакова Полина Валерьевна
+Array 66
+Array 70
+Matrix 74
+Matrix 56
+
+Безденежных Дарья Валерьевна
+Array 46
+Array 10
+Matrix 60
+Matrix 46
+
+Быляв Илья Евгеньевич
+Array 61
+Array 64
+Matrix 80
+Matrix 88
+
+Васильева Елена Олеговна
+Array 49
+Array 31
+Matrix 98
+Matrix 78
+
+Голышкин Павел Александрович
+Array 69
+Array 57
+Matrix 20
+Matrix 45
+
+Гордеев Никита Сергеевич
+Array 9
+Array 79
+Matrix 34
+Matrix 2
+
+Залетов Николай Игоревич
+Array 22
+Array 16
+Matrix 29
+Matrix 32
+
+Камышев Данила Дмитриевич
+Array 22
+Array 59
+Matrix 37
+Matrix 81
+
+Крупин Владимир Николаевич
+Array 79
+Array 77
+Matrix 64
+Matrix 20
+
+Кузнецов Артём Андрианович
+Array 23
+Array 31
+Matrix 46
+Matrix 16
+
+Куликов Артем Александрович
+Array 94
+Array 30
+Matrix 26
+Matrix 23
+
+Куратев Никита Игоревич
+Array 7
+Array 64
+Matrix 76
+Matrix 80
+
+Лицов Роман Андреевич
+Array 93
+Array 67
+Matrix 73
+Matrix 32
+
+Малов Даниил Константинович
+Array 57
+Array 5
+Matrix 95
+Matrix 86
+
+Оборожный Данил Сергеевич
+Array 3
+Array 58
+Matrix 5
+Matrix 50
+
+Поляков Максим Александрович
+Array 16
+Array 6
+Matrix 88
+Matrix 11
+
+Самедов Николай Юсифович
+Array 11
+Array 13
+Matrix 98
+Matrix 66
+
+Смирнов Артем Олегович
+Array 27
+Array 24
+Matrix 89
+Matrix 7
+
+Уманский Андрей Александрович
+Array 7
+Array 41
+Matrix 36
+Matrix 74
+
+Хазова Александра Сергеевна
+Array 3
+Array 98
+Matrix 83
+Matrix 3
+
+Эпова Екатерина Александровна
+Array 98
+Array 82
+Matrix 87
+Matrix 24
+

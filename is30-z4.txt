@@ -1,0 +1,66 @@
+Баршкетис Алина Александровна
+Array 9
+Array 42
+Matrix 77
+Matrix 47
+
+Бобина Дарья Алексеевна
+Array 17
+Array 74
+Matrix 71
+Matrix 11
+
+Боковая Полина Максимовна
+Array 8
+Array 74
+Matrix 12
+Matrix 81
+
+Булатова Наталья Владимировна
+Array 10
+Array 12
+Matrix 59
+Matrix 55
+
+Варламов Даниил Дмитриевич
+Array 49
+Array 60
+Matrix 22
+Matrix 37
+
+Красильников Никита Дмитриевич
+Array 14
+Array 51
+Matrix 42
+Matrix 32
+
+Лоскутов Андрей Викторович
+Array 48
+Array 57
+Matrix 4
+Matrix 8
+
+Михайлов Вячеслав Владимирович
+Array 22
+Array 62
+Matrix 93
+Matrix 70
+
+Смирнова Анна Николаевна
+Array 95
+Array 60
+Matrix 19
+Matrix 46
+
+Урядов Виктор Александрович
+Array 17
+Array 45
+Matrix 61
+Matrix 7
+
+Юданов Вячеслав Александрович
+Array 50
+Array 64
+Matrix 35
+Matrix 71
+
