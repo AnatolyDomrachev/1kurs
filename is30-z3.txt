@@ -1,0 +1,66 @@
+Баршкетис Алина Александровна
+Proc 8
+Proc 6
+Minmax 12
+Minmax 18
+
+Бобина Дарья Алексеевна
+Proc 2
+Proc 31
+Minmax 3
+Minmax 10
+
+Боковая Полина Максимовна
+Proc 31
+Proc 4
+Minmax 26
+Minmax 15
+
+Булатова Наталья Владимировна
+Proc 22
+Proc 20
+Minmax 20
+Minmax 12
+
+Варламов Даниил Дмитриевич
+Proc 18
+Proc 29
+Minmax 9
+Minmax 3
+
+Красильников Никита Дмитриевич
+Proc 14
+Proc 18
+Minmax 27
+Minmax 6
+
+Лоскутов Андрей Викторович
+Proc 21
+Proc 14
+Minmax 28
+Minmax 8
+
+Михайлов Вячеслав Владимирович
+Proc 6
+Proc 22
+Minmax 4
+Minmax 21
+
+Смирнова Анна Николаевна
+Proc 25
+Proc 27
+Minmax 29
+Minmax 9
+
+Урядов Виктор Александрович
+Proc 27
+Proc 6
+Minmax 1
+Minmax 26
+
+Юданов Вячеслав Александрович
+Proc 34
+Proc 26
+Minmax 3
+Minmax 7
+
