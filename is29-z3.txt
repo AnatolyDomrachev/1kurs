@@ -130,3 +130,8 @@ Proc 16
 Minmax 24
 Minmax 8
 
+Усманов
+Proc 7
+Proc 15
+Minmax 23
+Minmax 7
