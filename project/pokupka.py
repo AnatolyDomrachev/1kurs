@@ -1,8 +1,7 @@
+import magazin
 import etc
 
-magazin =  []
-
-etc.read_file(magazin,'magazin.conf')
+magazin =  magazin.Magazin('magazin.conf') 
 
 korzina = []
 net_v_magazine = []
@@ -10,7 +9,7 @@ net_v_magazine = []
 def pokupka(spisok):
     for slovar in spisok:
         est_v_mag = 'No'
-        for tovar in magazin:
+        for tovar in magazin.tovary:
             if slovar['name'] == tovar['name']:
          
                 kupil = etc.beru(slovar, tovar)       
@@ -23,6 +22,6 @@ def pokupka(spisok):
 
     print("Купили: ",korzina)
     print()
-    print("Осталось: ",magazin)
+    print("Осталось: ",magazin.tovary)
 
 
