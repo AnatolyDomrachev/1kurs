@@ -5,14 +5,15 @@ import pokupka
 
 spisok = []
 etc.read_file(spisok,'spisok.conf')
-
-path = []
+#
+#path = []
 #etc.read_file(path,'path.conf')
-
-path_to_market.path_to_market(path)
+#
+#path_to_market.path_to_market(path)
+'''
 print()
 pokupka.pokupka(spisok)
 print()
 path_from_market.path_from_market(path)
 
-
+'''
